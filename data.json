@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "JenniferKenmoe",
+  "email": "jenniferkenmoe17@gmail.com",
+  "skills": ["Python", "Flask", "Docker"],
+  "projects": [
+    {
+      "title": "API de blog",
+      "github": "https://github.com/JenniferKenmoe/blog-api"
+    }
+  ]
+}
